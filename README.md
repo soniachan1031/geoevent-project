@@ -16,9 +16,9 @@
     <br />
     <a href="https://geoevent.vercel.app/">View Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://github.com/soniachan1031/geoevent-project/issues">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://github.com/soniachan1031/geoevent-project/issues">Request Feature</a>
   </p>
 </div>
 
