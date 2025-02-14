@@ -114,13 +114,13 @@ Before running the code, ensure that you have install the following software.
 
 ### Installation
 1. Git clone the repo
-  ```sh
-  git clone https://github.com/soniachan1031/geoevent-project
-  ```
+    ```sh
+    git clone https://github.com/soniachan1031/geoevent-project
+    ```
 2. Install NPM packages
-  ```sh
-  npm install
-  ```
+    ```sh
+    npm install
+    ```
 
 ### Run Application Locally
 1. Run the Application
