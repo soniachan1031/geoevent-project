@@ -20,6 +20,7 @@
     ·
     <a href="https://github.com/soniachan1031/geoevent-project/issues">Request Feature</a>
   </p>
+  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -47,4 +48,7 @@
 </details>
 
 <!--About the project-->
-"# geoevent-project" 
+"## geoevent-project" 
+  <a href="https://github.com/soniachan1031/geoevent-project">
+    <img src="./public/Iteration1_demo2.gif" alt="Logo" width="" height="">
+  </a>
