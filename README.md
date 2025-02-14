@@ -16,8 +16,6 @@
     <br />
     <a href="https://geoevent.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/soniachan1031/geoevent-project/issues">Report Bug</a>
-    ·
     <a href="https://github.com/soniachan1031/geoevent-project/issues">Request Feature</a>
   </p>
   </p>
@@ -144,7 +142,7 @@ Before running the code, ensure that you have install the following software.
 - [x] Organizer & Admin Tools (Planned for Next Iteration)
 - [x] Planned Features  (Planned for Next Iteration)
 - [x] AI-Powered Event Recommendations (Planned for Next Iteration)
-🚧 Planned Features (Future Iterations)
+<p>🚧 Planned Features (Future Iterations)</p>
 - [ ] Mobile App Version 
 - [ ] Secure Payment & Ticketing System
 - [ ] Chatbot for User Assistance
