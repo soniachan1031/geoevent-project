@@ -38,12 +38,11 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#run-application-locally">Run Application</li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -84,8 +83,8 @@
 - Securely register, log in, and manage your account with robust authentication features. Admins can moderate users and handle event approvals with ease.
 
 GeoEvent is redefining event management with efficiency, convenience, and engagement at its core. Join us and experience the future of event planning! 🚀
-🔗 Check out the project on GitHub and contribute today!
-#GeoEvent #EventManagement #SmartEvents #TechInnovation
+<p>🔗 Check out the project on GitHub and contribute today!</p>
+<p>#GeoEvent #EventManagement #SmartEvents #TechInnovation</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,6 +95,70 @@ GeoEvent is redefining event management with efficiency, convenience, and engage
 * [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Vercel][Vercel]][Vercel-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+You may follow the following instructions to setup your project locally. 
+
+### Prerequisites
+Before running the code, ensure that you have install the following software.
+* node
+    * https://nodejs.org/en
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+1. Git clone the repo
+  ```sh
+  git clone https://github.com/soniachan1031/geoevent-project
+  ```
+2. Install NPM packages
+  ```sh
+  npm install
+  ```
+
+### Run Application Locally
+1. Run the Application
+    ```sh
+    npm run dev
+    ```
+2. Open [http://localhost:3000](http://localhost:3000) with your browser
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--Roadmap-->
+## Roadmap
+- [x] User Authentication & Security
+- [x] Event Management System
+- [x] Event Discovery & Interaction (Partially Completed)
+- [x] User Notifications & Alerts (Partially Completed)
+- [x] Event Sharing & Social Integration (Planned for Next Iteration)
+- [x] Location & Navigation Features (Planned for Next Iteration)
+- [x] User Engagement & Feedback (Planned for Next Iteration)
+- [x] Multi-Language Support (Planned for Next Iteration)
+- [x] Organizer & Admin Tools (Planned for Next Iteration)
+- [x] Planned Features  (Planned for Next Iteration)
+- [x] AI-Powered Event Recommendations (Planned for Next Iteration)
+🚧 Planned Features (Future Iterations)
+- [ ] Mobile App Version 
+- [ ] Secure Payment & Ticketing System
+- [ ] Chatbot for User Assistance
+
+See the [open issues](https://github.com/soniachan1031/geoevent-project/issues) for a proposed features of enhancement 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--License-->
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
