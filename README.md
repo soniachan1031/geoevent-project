@@ -90,19 +90,25 @@ GeoEvent is redefining event management with efficiency, convenience, and engage
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
+* [![React][React]][React-url]
 * [![Next][Next.js]][Next-url]
 * [![NodeJS][Node.js]][Node-url]
+* [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Vercel][Vercel]][Vercel-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[React]:https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
+[React-url]: https://react.dev/
+[Next.js]: https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white
 [Next-url]: https://nextjs.org/
 [Node.js]:  https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
-[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[TailwindCSS]: https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
-[Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel]: https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white
 [Vercel-url]: https://vercel.com/
