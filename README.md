@@ -142,7 +142,7 @@ Before running the code, ensure that you have install the following software.
 - [x] Organizer & Admin Tools (Planned for Next Iteration)
 - [x] Planned Features  (Planned for Next Iteration)
 - [x] AI-Powered Event Recommendations (Planned for Next Iteration)
-<p>🚧 Planned Features (Future Iterations)</p>
+### 🚧 Planned Features (Future Iterations)
 - [ ] Mobile App Version 
 - [ ] Secure Payment & Ticketing System
 - [ ] Chatbot for User Assistance
