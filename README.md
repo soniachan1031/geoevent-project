@@ -2,8 +2,8 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href=".....">
-    <img src="./public/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/soniachan1031/geoevent-project">
+    <img src="./public/logo.png" alt="Logo" width="80" height="120">
   </a>
 
 <h3 align="center">GeoEvent</h3>
