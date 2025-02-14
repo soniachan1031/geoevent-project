@@ -9,9 +9,9 @@
 <h3 align="center">GeoEvent</h3>
 
   <p align="center">
-    A hair salon app with AI virtual hairstyle 
+    A localized public event web application in Kitchener
     <br />
-    <a href="...."><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/soniachan1031/geoevent-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://geoevent.vercel.app/">View Demo</a>
