@@ -91,7 +91,7 @@ GeoEvent is redefining event management with efficiency, convenience, and engage
 
 ### Built With
 * [![Next][Next.js]][Next-url]
-* [![NodeJS[Node.js]][Node-url]
+* [![NodeJS][Node.js]][Node-url]spe
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Vercel][Vercel]][Vercel-url]
 
