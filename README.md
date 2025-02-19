@@ -47,7 +47,7 @@
 <!--About the project-->
 ## geoevent-project
   <a href="https://github.com/soniachan1031/geoevent-project">
-    <img src="./public/Iteration1_demo2.gif" alt="Logo" width="" height="">
+    <img src="https://github.com/soniachan1031/geoevent-project/blob/main/Iteration1_demo2.gif" alt="Logo" width="" height="">
   </a>
 
 ## 🌍Welcome to GeoEvent – Your Ultimate Event Management Platform! 🎉
