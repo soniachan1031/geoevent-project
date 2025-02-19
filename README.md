@@ -133,19 +133,19 @@ Before running the code, ensure that you have install the following software.
 ## Roadmap
 - [x] User Authentication & Security
 - [x] Event Management System
-- [x] Event Discovery & Interaction (Partially Completed)
-- [x] User Notifications & Alerts (Partially Completed)
-- [x] Event Sharing & Social Integration (Planned for Next Iteration)
-- [x] Location & Navigation Features (Planned for Next Iteration)
-- [x] User Engagement & Feedback (Planned for Next Iteration)
-- [x] Multi-Language Support (Planned for Next Iteration)
-- [x] Organizer & Admin Tools (Planned for Next Iteration)
-- [x] Planned Features  (Planned for Next Iteration)
-- [x] AI-Powered Event Recommendations (Planned for Next Iteration)
+- [x] Event Discovery & Interaction 
+- [x] User Notifications & Alerts 
+- [x] Event Sharing & Social Integration 
+- [x] Location & Navigation Features
+- [x] User Engagement & Feedback 
+- [x] Multi-Language Support 
+- [x] Organizer & Admin Tools 
+- [x] Planned Features  
+- [x] AI-Powered Event Recommendations 
 ### 🚧 Planned Features (Future Iterations)
-- [ ] Mobile App Version 
-- [ ] Secure Payment & Ticketing System
-- [ ] Chatbot for User Assistance
+- [x] Mobile App Version 
+- [x] Secure Payment & Ticketing System
+- [x] Chatbot for User Assistance
 
 See the [open issues](https://github.com/soniachan1031/geoevent-project/issues) for a proposed features of enhancement 
 
