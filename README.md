@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/soniachan1031/geoevent-project">
-    <img src="https://github.com/soniachan1031/geoevent-project/blob/main/GeoEvent_logo.png" alt="Logo" width="80" height="120">
+    <img src="https://github.com/soniachan1031/geoevent-project/blob/main/GeoEvent_logo.png" alt="Logo" width="120" height="150">
   </a>
 
 <h3 align="center">GeoEvent</h3>
