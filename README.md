@@ -1,6 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<a name="readme-top"></a>
 
-=======
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/soniachan1031/geoevent-project">
@@ -48,7 +47,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 <!--About the project-->
 ## geoevent-project
   <a href="https://github.com/soniachan1031/geoevent-project">
-    <img src="https://github.com/soniachan1031/geoevent-project/blob/main/Iteration1_demo2.gif" alt="Logo" width="" height="">
+    <img src="./public/Iteration1_demo2.gif" alt="Logo" width="" height="">
   </a>
 
 ## 🌍Welcome to GeoEvent – Your Ultimate Event Management Platform! 🎉
@@ -99,38 +98,78 @@ GeoEvent is redefining event management with efficiency, convenience, and engage
 
 
 <!-- GETTING STARTED -->
->>>>>>> 9cf84a2fc6e017bbaa8ec9f288a9711f5ee7ec5a
 ## Getting Started
+You may follow the following instructions to setup your project locally. 
 
-First, run the development server:
+### Prerequisites
+Before running the code, ensure that you have install the following software.
+* node
+    * https://nodejs.org/en
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Installation
+1. Git clone the repo
+    ```sh
+    git clone https://github.com/soniachan1031/geoevent-project
+    ```
+2. Install NPM packages
+    ```sh
+    npm install
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Run Application Locally
+1. Run the Application
+    ```sh
+    npm run dev
+    ```
+2. Open [http://localhost:3000](http://localhost:3000) with your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<!--Roadmap-->
+## Roadmap
+- [x] User Authentication & Security
+- [x] Event Management System
+- [x] Event Discovery & Interaction 
+- [x] User Notifications & Alerts 
+- [x] Event Sharing & Social Integration 
+- [x] Location & Navigation Features
+- [x] User Engagement & Feedback 
+- [x] Multi-Language Support 
+- [x] Organizer & Admin Tools 
+- [x] Planned Features  
+- [x] AI-Powered Event Recommendations 
+### 🚧 Planned Features (Future Iterations)
+- [x] Mobile App Version 
+- [x] Secure Payment & Ticketing System
+- [x] Chatbot for User Assistance
 
-## Learn More
+See the [open issues](https://github.com/soniachan1031/geoevent-project/issues) for a proposed features of enhancement 
 
-To learn more about Next.js, take a look at the following resources:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<!--License-->
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Deploy on Vercel
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React]:https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
+[React-url]: https://react.dev/
+[Next.js]: https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white
+[Next-url]: https://nextjs.org/
+[Node.js]:  https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/en
+[TailwindCSS]: https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
+[Vercel]: https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white
+[Vercel-url]: https://vercel.com/
